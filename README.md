@@ -140,7 +140,7 @@ Los estudiantes pueden crear funciones adicionales si consideran que mejoran la 
 
 ---
 
-Ensuciamiento de los datos
+Ensuciamiento de los datos 💩
 
 Después de generar los registros correctamente, el programa deberá introducir errores intencionales en una parte de los datos.
 
